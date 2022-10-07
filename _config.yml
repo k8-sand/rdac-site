@@ -1,11 +1,10 @@
 # Site settings
 title: Science and Technology Blog
 description: "Blog site for scientific/technical pages."
-url: "https://pranjaldhole.github.io/science-blog-template"
+url: "https://k8-sand.github.io/rdac-site/"
 author:
-  name: "Pranjal Dhole"
-  email: "dhole.pranjal@gmail.com"
-  url: "https://pranjaldhole.github.io"
+  name: "DUKE RDAC"
+  url: "https://sites.globalhealth.duke.edu/rdac/"
 
 # Build settings
 baseurl: /science-blog-template/
