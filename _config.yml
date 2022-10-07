@@ -7,7 +7,7 @@ author:
   url: "https://sites.globalhealth.duke.edu/rdac/"
 
 # Build settings
-baseurl: /science-blog-template/
+baseurl: /rdac-site/
 source: .
 destination: ./_site
 permalink: /:title
